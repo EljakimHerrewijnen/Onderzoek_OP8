@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 using System.Windows.Forms;
+using System.Text.RegularExpressions;
+using System.IO;
 
 namespace EbookParser
 {
@@ -31,6 +33,31 @@ namespace EbookParser
                 }
             }
 
+            List<string> Allwords = new List<string>();
+            foreach (var line in allText)
+            {
+                Allwords.AddRange(line.Split(null));
+            }
+            Allwords.RemoveAll(new Predicate<string>(x => x == ""));
+
+
+            Dictionary<string, int> words = new Dictionary<string, int>();
+            foreach(var word in Allwords)
+            {
+                if (words.ContainsKey(word))
+                    words[word] = words[word] + 1;
+                else
+                    words.Add(word, 1);
+            }
+
+
+            SaveFileDialog saveFile = new SaveFileDialog();
+            saveFile.Filter = "Comma Seperated Values|.csv";
+            saveFile.ShowDialog();
+            var writer = new StreamWriter(saveFile.FileName);
+            foreach (var word in words.Keys)
+                writer.WriteLine(word + ";" + words[word].ToString());
+            writer.Close();
         }
 
         static string CleanToText(XElement element)
@@ -39,7 +66,35 @@ namespace EbookParser
             {
                 i.ReplaceWith(CleanToText(i));
             }
-            return element.Value;
+            return RemoveNumbers(RemovePunctuation(element.Value)).ToLower();
+        }
+
+        static string RemovePunctuation(string text)
+        {
+            text = text.Replace('.', ' ');
+            text = text.Replace('!', ' ');
+            text = text.Replace('?', ' ');
+            text = text.Replace(',', ' ');
+            text = text.Replace('"', ' ');
+            text = text.Replace(':', ' ');
+            text = text.Replace(';', ' ');
+            text = text.Replace('\'', ' ');
+            text = text.Replace('-', ' ');
+            text = text.Replace('‘', ' ');
+            text = text.Replace('’', ' ');
+            text = text.Replace('“', ' ');
+            text = text.Replace('”', ' ');
+
+            return text;
+        }
+        static string RemoveNumbers(string text)
+        {
+            const string numbers = "1234567890";
+            foreach( var i in numbers)
+            {
+                text = text.Replace(i, ' ');
+            }
+            return text;
         }
     }
 }
