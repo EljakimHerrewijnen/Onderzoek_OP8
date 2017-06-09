@@ -23,13 +23,20 @@ namespace EbookParser
 
             foreach (var file in fileselecter.FileNames)
             {
-                var xml = XDocument.Load(file);
-                var df = xml.Root.Name.Namespace;
-                
-                var pElemenets = xml.Root.Descendants(df + "p");
-                foreach(var i in pElemenets)
+                try
                 {
-                    allText.Add(CleanToText(i));
+                    var xml = XDocument.Load(file);
+                    var df = xml.Root.Name.Namespace;
+
+                    var pElemenets = xml.Root.Descendants(df + "p");
+                    foreach (var i in pElemenets)
+                    {
+                        allText.Add(CleanToText(i));
+                    }
+                }
+                catch
+                {
+
                 }
             }
 
