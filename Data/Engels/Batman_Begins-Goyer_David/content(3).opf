@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+    <dc:title>The Lost Treasure of Bodega Bay</dc:title>
+    <dc:description>&lt;p&gt;It's so great when our parents travel due to their work and take you to the unusual places. There are many interesting and useful things you can discover. Last time, for instance, the captain of a Spanish pirate ship wanted to turn the children's parents into his slaves. Only fortune helped them to escape this fate. The children were even able to steal a treasure map from the pirates-ghosts. And now the adventures are waiting for them on summer holidays. The parents take the children to Bodega Bay - a small town with the marine reserve. It is located on the northern coast of San Francisco. Except the rare species of animals, this place is also famous of its history. Long time ago it was a pirates' secret place. With the map the children will be able to find the hidden treasures. However, the map is too difficult to read and they have only one week to explore the coast.&lt;/p&gt;</dc:description>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">f0843c5b-4b1f-4f00-bc62-1341b68c56b5</dc:identifier>
+    <dc:identifier opf:scheme="calibre">f0843c5b-4b1f-4f00-bc62-1341b68c56b5</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:contributor opf:role="bkp">calibre (2.67.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>adventure</dc:subject>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Lost Treasure of Bodega Bay, The"/>
+    <dc:creator opf:file-as="Gina, Clemen D. B." opf:role="aut">Clemen D. B. Gina</dc:creator>
+    <dc:publisher>http://english-e-books.net/</dc:publisher>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="index_split_000.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

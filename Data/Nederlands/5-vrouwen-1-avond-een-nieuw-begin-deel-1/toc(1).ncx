@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="nl">
+  <head>
+    <meta content="59aa76fe-6495-4d8b-81d5-2a6eb5607337" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.34)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Het Glazen Hart</text>
+  </docTitle>
+  <navMap>
+    
+  <navPoint id="navPoint-1" playOrder="1"><navLabel><text>Het Glazen Hart</text></navLabel><content src="tmp_f0bdf51752308cfa087149237d5535fa_cc3fHW.ch.fixed.fc.tidied.stylehacked.xfixed_split_000.html"/></navPoint><navPoint id="navPoint-2" playOrder="2"><navLabel><text>Midpoint</text></navLabel><content src="tmp_f0bdf51752308cfa087149237d5535fa_cc3fHW.ch.fixed.fc.tidied.stylehacked.xfixed_split_019.html#calibre_toc_2"/></navPoint></navMap>
+</ncx>

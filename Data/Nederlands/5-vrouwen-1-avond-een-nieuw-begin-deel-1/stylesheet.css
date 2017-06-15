@@ -1,0 +1,183 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.SWsoftchapter {
+    color: #000;
+    direction: ltr;
+    display: none;
+    line-height: 115%;
+    margin-bottom: 0.08in;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    widows: 2
+    }
+.c {
+    color: #000;
+    direction: ltr;
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 100%;
+    margin-bottom: 0.21in;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    text-align: center;
+    widows: 2
+    }
+.c1 {
+    color: #000;
+    direction: ltr;
+    display: block;
+    line-height: 100%;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    widows: 2
+    }
+.c2 {
+    color: #000;
+    direction: ltr;
+    display: block;
+    line-height: 200%;
+    margin-bottom: 0.14in;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    widows: 2
+    }
+.calibre {
+    color: #000;
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    page-break-before: always;
+    text-align: justify
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre3 {
+    display: list-item
+    }
+.western {
+    color: #000;
+    direction: ltr;
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1.125em;
+    font-weight: normal;
+    line-height: 112%;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    so-language: en-US;
+    widows: 2
+    }
+.western1 {
+    color: #000;
+    direction: ltr;
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1.125em;
+    font-weight: normal;
+    line-height: 112%;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    so-language: en-US;
+    text-align: center;
+    widows: 2
+    }
+.western2 {
+    color: #000;
+    direction: ltr;
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 0.75em;
+    line-height: 115%;
+    margin-bottom: 0.14in;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    so-language: en-US;
+    widows: 2
+    }
+.western3 {
+    color: #000;
+    direction: ltr;
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 1.41667em;
+    font-weight: normal;
+    line-height: 115%;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    so-language: en-US;
+    text-align: center;
+    widows: 2
+    }
+.western4 {
+    color: #000;
+    direction: ltr;
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 0.75em;
+    line-height: 115%;
+    margin-bottom: 0.14in;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    page-break-before: always;
+    so-language: en-US;
+    widows: 2
+    }
+.western5 {
+    color: #000;
+    direction: ltr;
+    display: block;
+    font-family: "Cambria", serif;
+    font-size: 0.75em;
+    line-height: 200%;
+    margin-bottom: 0.14in;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    so-language: en-US;
+    widows: 2
+    }
+a {
+    color: inherit;
+    text-decoration: inherit;
+    cursor: default
+    }
+a[href] {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer
+    }

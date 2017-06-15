@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd" >
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta name="dtb:uid" content="dele035wegv01_01"/>
+</head>
+<docTitle><text>De weg van het kwaad</text></docTitle>
+<docAuthor><text>Grazia Deledda</text></docAuthor>
+<navMap>
+<navPoint id="navpoint-1" playOrder="1">
+<navLabel><text>De weg van het kwaad</text></navLabel>
+<content src="dele035wegv01_01-0001.xhtml#toc-anchor"/>
+</navPoint>
+<navPoint id="navpoint-2" playOrder="2">
+<navLabel><text>Eerste Hoofdstuk</text></navLabel>
+<content src="dele035wegv01_01-0002.xhtml#toc-anchor1"/>
+</navPoint>
+<navPoint id="navpoint-3" playOrder="3">
+<navLabel><text>Tweede hoofdstuk</text></navLabel>
+<content src="dele035wegv01_01-0003.xhtml#toc-anchor2"/>
+</navPoint>
+<navPoint id="navpoint-4" playOrder="4">
+<navLabel><text>Derde Hoofdstuk</text></navLabel>
+<content src="dele035wegv01_01-0004.xhtml#toc-anchor3"/>
+</navPoint>
+<navPoint id="navpoint-5" playOrder="5">
+<navLabel><text>Vierde Hoofdstuk</text></navLabel>
+<content src="dele035wegv01_01-0005.xhtml#toc-anchor4"/>
+</navPoint>
+<navPoint id="navpoint-6" playOrder="6">
+<navLabel><text>Vijfde Hoofdstuk</text></navLabel>
+<content src="dele035wegv01_01-0006.xhtml#toc-anchor5"/>
+</navPoint>
+<navPoint id="navpoint-7" playOrder="7">
+<navLabel><text>Zesde Hoofdstuk</text></navLabel>
+<content src="dele035wegv01_01-0007.xhtml#toc-anchor6"/>
+</navPoint>
+<navPoint id="navpoint-8" playOrder="8">
+<navLabel><text>Zevende Hoofdstuk</text></navLabel>
+<content src="dele035wegv01_01-0008.xhtml#toc-anchor7"/>
+</navPoint>
+<navPoint id="navpoint-9" playOrder="9">
+<navLabel><text>Achtste Hoofdstuk</text></navLabel>
+<content src="dele035wegv01_01-0009.xhtml#toc-anchor8"/>
+</navPoint>
+<navPoint id="navpoint-10" playOrder="10">
+<navLabel><text>Negende Hoofdstuk</text></navLabel>
+<content src="dele035wegv01_01-0010.xhtml#toc-anchor9"/>
+</navPoint>
+<navPoint id="navpoint-11" playOrder="11">
+<navLabel><text>Tiende Hoofdstuk</text></navLabel>
+<content src="dele035wegv01_01-0011.xhtml#toc-anchor10"/>
+</navPoint>
+<navPoint id="navpoint-12" playOrder="12">
+<navLabel><text>Elfde Hoofdstuk</text></navLabel>
+<content src="dele035wegv01_01-0012.xhtml#toc-anchor11"/>
+</navPoint>
+<navPoint id="navpoint-13" playOrder="13">
+<navLabel><text>Twaalfde Hoofdstuk</text></navLabel>
+<content src="dele035wegv01_01-0013.xhtml#toc-anchor12"/>
+</navPoint>
+<navPoint id="navpoint-14" playOrder="14">
+<navLabel><text>Dertiende hoofdstuk</text></navLabel>
+<content src="dele035wegv01_01-0014.xhtml#toc-anchor13"/>
+</navPoint>
+<navPoint id="navpoint-15" playOrder="15">
+<navLabel><text>Veertiende Hoofdstuk</text></navLabel>
+<content src="dele035wegv01_01-0015.xhtml#toc-anchor14"/>
+</navPoint>
+<navPoint id="navpoint-16" playOrder="16">
+<navLabel><text>Vijftiende Hoofdstuk</text></navLabel>
+<content src="dele035wegv01_01-0016.xhtml#toc-anchor15"/>
+</navPoint>
+<navPoint id="navpoint-17" playOrder="17">
+<navLabel><text>Zestiende Hoofdstuk</text></navLabel>
+<content src="dele035wegv01_01-0017.xhtml#toc-anchor16"/>
+</navPoint>
+<navPoint id="navpoint-18" playOrder="18">
+<navLabel><text>Zeventiende Hoofdstuk</text></navLabel>
+<content src="dele035wegv01_01-0018.xhtml#toc-anchor17"/>
+</navPoint>
+<navPoint id="navpoint-19" playOrder="19">
+<navLabel><text>Achttiende Hoofdstuk</text></navLabel>
+<content src="dele035wegv01_01-0019.xhtml#toc-anchor18"/>
+</navPoint>
+<navPoint id="navpoint-20" playOrder="20">
+<navLabel><text>Negentiende Hoofdstuk</text></navLabel>
+<content src="dele035wegv01_01-0020.xhtml#toc-anchor19"/>
+</navPoint>
+<navPoint id="navpoint-21" playOrder="21">
+<navLabel><text>Twintigste Hoofdstuk</text></navLabel>
+<content src="dele035wegv01_01-0021.xhtml#toc-anchor20"/>
+</navPoint>
+<navPoint id="navpoint-22" playOrder="22">
+<navLabel><text>Eenentwintigste hoofdstuk</text></navLabel>
+<content src="dele035wegv01_01-0022.xhtml#toc-anchor21"/>
+</navPoint>
+<navPoint id="navpoint-23" playOrder="23">
+<navLabel><text>Tweeëntwintigste Hoofdstuk</text></navLabel>
+<content src="dele035wegv01_01-0023.xhtml#toc-anchor22"/>
+</navPoint>
+<navPoint id="navpoint-24" playOrder="24">
+<navLabel><text>Drieëntwintigste Hoofdstuk</text></navLabel>
+<content src="dele035wegv01_01-0024.xhtml#toc-anchor23"/>
+</navPoint>
+<navPoint id="navpoint-25" playOrder="25">
+<navLabel><text>Het Leven van Grazia Deledda (1871 - 1936)</text></navLabel>
+<content src="dele035wegv01_01-0025.xhtml#toc-anchor24"/>
+</navPoint>
+</navMap>
+</ncx>

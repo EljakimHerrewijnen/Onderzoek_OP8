@@ -1,0 +1,403 @@
+@font-face {
+	font-family:"Avenir Book";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../Fonts/Avenir-Book.ttc");
+}
+@font-face {
+	font-family:Courier;
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/Courier.dfont");
+}
+@font-face {
+	font-family:Courier;
+	font-style:italic;
+	font-weight:normal;
+	src : url("../font/Courier-Oblique.dfont");
+}
+@font-face {
+	font-family:Courier;
+	font-style:oblique;
+	font-weight:normal;
+	src : url("../font/Courier-Oblique.dfont");
+}
+@font-face {
+	font-family:"Helvetica Neue";
+	font-style:normal;
+	font-weight:bold;
+	src : url("../font/HelveticaNeue-Bold.dfont");
+}
+@font-face {
+	font-family:"Helvetica Neue";
+	font-style:normal;
+	font-weight:300;
+	src : url("../font/HelveticaNeue-Light.dfont");
+}
+@font-face {
+	font-family:"Helvetica Neue";
+	font-style:normal;
+	font-weight:500;
+	src : url("../font/HelveticaNeue-Medium.dfont");
+}
+@font-face {
+	font-family:"Minion Pro";
+	font-style:normal;
+	font-weight:bold;
+	src : url("../Fonts/MinionPro-Bold.otf");
+}
+@font-face {
+	font-family:"Minion Pro";
+	font-style:italic;
+	font-weight:normal;
+	src : url("../Fonts/MinionPro-It.otf");
+}
+@font-face {
+	font-family:"Minion Pro";
+	font-style:oblique;
+	font-weight:normal;
+	src : url("../Fonts/MinionPro-It.otf");
+}
+@font-face {
+	font-family:"Minion Pro";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../Fonts/MinionPro-Regular.otf");
+}
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+td, th {
+	border-style:solid;
+	border-width:1px;
+}
+table {
+	border-collapse:collapse;
+}
+body {
+	-epub-hyphens:auto;
+	-webkit-hyphens:auto;
+}
+@page {
+	margin : 5px 5px 5px 5px;
+}
+p.Colofon {
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.556;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:9px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	widows:1;
+}
+p.hoofdstukcijfer {
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:2.5em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:0.467;
+	margin-bottom:57px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:11px;
+	widows:1;
+}
+p.kopje-inleiding {
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:1.5em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:0.778;
+	margin-bottom:57px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:11px;
+	widows:1;
+}
+p.ornamentje {
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	widows:1;
+}
+p.plat {
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:0.883em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.321;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:9px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	widows:1;
+}
+p.plat-initiaal {
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:0.883em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.321;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	widows:1;
+}
+p.plat-inspring {
+	color:#000000;
+	font-family:"Minion Pro", serif;
+	font-size:0.883em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.321;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:11px;
+	widows:1;
+}
+p.streamer {
+	color:#000000;
+	font-family:"Avenir Book", sans-serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	widows:1;
+}
+span.courier {
+	font-family:Courier, serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.courier-italic {
+	font-family:Courier, serif;
+	font-size:0.667em;
+	font-style:italic;
+	font-weight:normal;
+}
+span.italic {
+	font-family:"Minion Pro", serif;
+	font-style:italic;
+	font-weight:normal;
+}
+span.vet {
+	font-style:normal;
+	font-weight:bold;
+}
+p.ParaOverride-1 {
+	margin-top:0px;
+	text-align:left;
+}
+p.ParaOverride-2 {
+	margin-top:6px;
+	text-align:left;
+}
+p.ParaOverride-3 {
+	text-align:center;
+}
+p.ParaOverride-4 {
+	text-align:center;
+	text-indent:0px;
+}
+p.ParaOverride-5 {
+	margin-bottom:20px;
+	text-align:center;
+	text-indent:0px;
+}
+p.ParaOverride-6 {
+	margin-top:0px;
+}
+p.ParaOverride-7 {
+	margin-top:6px;
+}
+p.ParaOverride-8 {
+	margin-top:0px;
+	text-align:center;
+}
+p.ParaOverride-9 {
+	margin-bottom:20px;
+	margin-top:0px;
+	text-align:center;
+}
+p.ParaOverride-10 {
+	margin-top:6px;
+	page-break-before:always;
+}
+p.ParaOverride-11 {
+	margin-bottom:6px;
+}
+p.ParaOverride-12 {
+	margin-bottom:6px;
+	margin-top:0px;
+}
+span.CharOverride-1 {
+	font-family:"Helvetica Neue", sans-serif;
+	font-style:normal;
+	font-weight:normal;
+	text-transform:uppercase;
+}
+span.CharOverride-2 {
+	font-family:"Helvetica Neue", sans-serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-3 {
+	font-family:"Helvetica Neue", sans-serif;
+	font-style:normal;
+	font-weight:500;
+}
+span.CharOverride-4 {
+	font-family:"Helvetica Neue", sans-serif;
+	font-style:normal;
+	font-weight:300;
+}
+span.CharOverride-5 {
+	font-family:"Helvetica Neue";
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-6 {
+	font-size:0.722em;
+}
+p._idGenParaOverride-1 {
+	page-break-before:always;
+}
+span._idGenCharOverride-1 {
+	font-family:Courier;
+	font-size:0.849em;
+}
+span._idGenCharOverride-2 {
+	font-size:0.755em;
+}
+span._idGenCharOverride-3 {
+	font-family:"Minion Pro";
+}
+span._idGenDropcap-1 {
+	float:left;
+	font-size:3.032em;
+	line-height:1;
+	margin-bottom:-0.273em;
+	margin-right:0.05em;
+	margin-top:-0.072em;
+}
+img._idGenPageitem-1 {
+	height:482px;
+	width:315px;
+}
+div._idGenPageitem-2 {
+	page-break-after:always;
+	text-align:center;
+}
+img._idGenPageitem-3 {
+	height:24px;
+	width:45px;
+}
+img._idGenPageitem-4 {
+	height:41px;
+	width:35px;
+}
+img._idGenPageitem-5 {
+	height:40px;
+	width:48px;
+}
+img._idGenPageitem-6 {
+	height:39px;
+	width:31px;
+}
+img._idGenPageitem-7 {
+	height:469px;
+	width:337px;
+}
+div._idGenPageitem-8 {
+	page-break-after:always;
+	page-break-before:always;
+	text-align:center;
+}
+img._idGenPageitem-9 {
+	height:45px;
+	width:38px;
+}
+img._idGenPageitem-10 {
+	height:22px;
+	width:55px;
+}

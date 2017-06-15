@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:description>Alles heeft Mark Weegers in het leven altijd meegezeten, totdat hij ten onrechte wordt beschuldigd van moord op een collega. Als hij de gevangenis verlaat, zit hij vol wraakgevoelens en frustraties. Hij heeft maar één doel: de ware schuldige vinden. Alle waarschuwingen en goede raadgevingen ten spijt, kan niets hem ervan weerhouden om te proberen van alle blaam gezuiverd te worden.</dc:description>
+    <dc:language>nl</dc:language>
+    <dc:creator opf:role="aut">Stiny Huizing</dc:creator>
+    <meta name="calibre:timestamp" content="2014-05-02T08:00:07.606921"/>
+    <dc:title>Ik zal je vinden</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:contributor opf:role="bkp">Smashwords, Inc.</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">6d46a4a8-07aa-4042-989f-1e0d07483201</dc:identifier>
+    <dc:subject>suspense action thriller</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="tmp_023780c746960d1074a5d6a5945fdd3c_7AsAUu.ch.fixed.fc.tidied.stylehacked.xfixed_split_000.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="tmp_023780c746960d1074a5d6a5945fdd3c_7AsAUu.ch.fixed.fc.tidied.stylehacked.xfixed_split_001.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="tmp_023780c746960d1074a5d6a5945fdd3c_7AsAUu.ch.fixed.fc.tidied.stylehacked.xfixed_split_002.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="tmp_023780c746960d1074a5d6a5945fdd3c_7AsAUu.ch.fixed.fc.tidied.stylehacked.xfixed_split_003.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="tmp_023780c746960d1074a5d6a5945fdd3c_7AsAUu.ch.fixed.fc.tidied.stylehacked.xfixed_split_004.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

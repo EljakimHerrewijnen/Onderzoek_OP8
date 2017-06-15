@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE ncx PUBLIC
+  "-//NISO//DTD ncx 2005-1//EN"
+  "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx version="2005-1"
+  xml:lang="it"
+  xmlns="http://www.daisy.org/z3986/2005/ncx/">
+
+  <head>
+    <meta name="dtb:uid" content="bibliotecario_1212054125.2459390163" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Senz'Amore</text>
+  </docTitle>
+  <docAuthor>
+    <text>Marchesa Colombi</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="cover" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="cover.xhtml" />
+    </navPoint>
+    <navPoint id="c167425001" playOrder="2">
+      <navLabel>
+        <text>Senz'Amore</text>
+      </navLabel>
+      <content src="marchesa-colombi-senz-amore_0.html#c167425001" />
+    </navPoint>
+    <navPoint id="imprint" playOrder="3">
+      <navLabel>
+        <text>Imprint</text>
+      </navLabel>
+      <content src="imprint.html" />
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Nelson's Dream</dc:title>
+    <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">8a89b97a-b08b-471a-b0be-3e3b9812b1d3</dc:identifier>
+    <dc:identifier opf:scheme="calibre">8a89b97a-b08b-471a-b0be-3e3b9812b1d3</dc:identifier>
+    <dc:description>&lt;p&gt;A young man Nelson Mbizi returns home to South Africa after a long sturdy in the UK. After the arrival, he decides to get a job in a hotel. His father owns this hotel. Nelson wants to change the situation in their country. He learns about a woman who died and left her children alone. Nelson wants to help them and accidentally meets a TV presenter Vicky. He manages to give publicity to this story with her help. What chances does one guy have against the corrupted government, against social inequality, weapon and drug traffic, the AIDS epidemic? The one Nelson Mbizi comes into the fight alone against inhumanity in his own country. Will this young man be able to find allies in the fight against the government? Who could risk but him? It is you who will know whether there is justice in our society.&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (2.67.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:creator opf:file-as="Newsome, J. M." opf:role="aut">J. M. Newsome</dc:creator>
+    <dc:publisher>http://english-e-books.net/</dc:publisher>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="Nelson's Dream"/>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="index_split_000.html" id="id219" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id218" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id217" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id216" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.html" id="id215" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.html" id="id214" media-type="application/xhtml+xml"/>
+    <item href="index_split_006.html" id="id213" media-type="application/xhtml+xml"/>
+    <item href="index_split_007.html" id="id212" media-type="application/xhtml+xml"/>
+    <item href="index_split_008.html" id="id211" media-type="application/xhtml+xml"/>
+    <item href="index_split_009.html" id="id210" media-type="application/xhtml+xml"/>
+    <item href="index_split_010.html" id="id29" media-type="application/xhtml+xml"/>
+    <item href="index_split_011.html" id="id28" media-type="application/xhtml+xml"/>
+    <item href="index_split_012.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="index_split_013.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="index_split_014.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="index_split_015.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="index_split_016.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="index_split_017.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="index_split_018.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id219"/>
+    <itemref idref="id218"/>
+    <itemref idref="id217"/>
+    <itemref idref="id216"/>
+    <itemref idref="id215"/>
+    <itemref idref="id214"/>
+    <itemref idref="id213"/>
+    <itemref idref="id212"/>
+    <itemref idref="id211"/>
+    <itemref idref="id210"/>
+    <itemref idref="id29"/>
+    <itemref idref="id28"/>
+    <itemref idref="id27"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

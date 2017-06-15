@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="bookid">urn:uuid:84E6C6A2-C661-4FDF-8DED-055456EF9BE7</dc:identifier>
+    <dc:title>Bij nacht vermoord</dc:title>
+    <dc:creator xmlns:opf="http://www.idpf.org/2007/opf" opf:role="aut">J. D. Robb</dc:creator>
+    <dc:publisher>Boekerij</dc:publisher>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="">2013-11-18</dc:date>
+    <dc:rights>© 1998 Nora Roberts© 2014 voor de Nederlandse taal: Meulenhoff Boekerij bv, Amsterdam</dc:rights>
+    <dc:language>nl</dc:language>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2013-12-11</dc:date>
+    <meta content="Adobe InDesign 9.1" name="generator" />
+    <meta content="0.6.0" name="Sigil version" />
+  </metadata>
+  <manifest>
+    <item href="Text/Bij_nacht_vermoord.xhtml" id="Bij_nacht_vermoord" media-type="application/xhtml+xml" />
+    <item href="Text/Bij_nacht_vermoord-1.xhtml" id="Bij_nacht_vermoord-1" media-type="application/xhtml+xml" />
+    <item href="Text/Bij_nacht_vermoord-2.xhtml" id="Bij_nacht_vermoord-2" media-type="application/xhtml+xml" />
+    <item href="Text/Bij_nacht_vermoord-3.xhtml" id="Bij_nacht_vermoord-3" media-type="application/xhtml+xml" />
+    <item href="Text/Bij_nacht_vermoord-4.xhtml" id="Bij_nacht_vermoord-4" media-type="application/xhtml+xml" />
+    <item href="Text/Bij_nacht_vermoord-5.xhtml" id="Bij_nacht_vermoord-5" media-type="application/xhtml+xml" />
+    <item href="Text/Bij_nacht_vermoord-6.xhtml" id="Bij_nacht_vermoord-6" media-type="application/xhtml+xml" />
+    <item href="Text/Bij_nacht_vermoord-7.xhtml" id="Bij_nacht_vermoord-7" media-type="application/xhtml+xml" />
+    <item href="Text/Bij_nacht_vermoord-8.xhtml" id="Bij_nacht_vermoord-8" media-type="application/xhtml+xml" />
+    <item href="Text/Bij_nacht_vermoord-9.xhtml" id="Bij_nacht_vermoord-9" media-type="application/xhtml+xml" />
+    <item href="Text/Bij_nacht_vermoord-10.xhtml" id="Bij_nacht_vermoord-10" media-type="application/xhtml+xml" />
+    <item href="Text/Bij_nacht_vermoord-11.xhtml" id="Bij_nacht_vermoord-11" media-type="application/xhtml+xml" />
+    <item href="Text/Bij_nacht_vermoord-12.xhtml" id="Bij_nacht_vermoord-12" media-type="application/xhtml+xml" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Styles/idGeneratedStyles.css" id="idGeneratedStyles.css" media-type="text/css" />
+    <item href="Fonts/Avenir-Book.ttc" id="Avenir-Book.ttc" media-type="application/x-font-ttf" />
+    <item href="Misc/Courier-Oblique.dfont" id="Courier-Oblique.dfont" media-type="application/x-font-ttf" />
+    <item href="Misc/Courier.dfont" id="Courier.dfont" media-type="application/x-font-ttf" />
+    <item href="Misc/HelveticaNeue-Bold.dfont" id="HelveticaNeue-Bold.dfont" media-type="application/x-font-ttf" />
+    <item href="Misc/HelveticaNeue-Light.dfont" id="HelveticaNeue-Light.dfont" media-type="application/x-font-ttf" />
+    <item href="Misc/HelveticaNeue-Medium.dfont" id="HelveticaNeue-Medium.dfont" media-type="application/x-font-ttf" />
+    <item href="Fonts/MinionPro-Bold.otf" id="MinionPro-Bold.otf" media-type="application/vnd.ms-opentype" />
+    <item href="Fonts/MinionPro-It.otf" id="MinionPro-It.otf" media-type="application/vnd.ms-opentype" />
+    <item href="Fonts/MinionPro-Regular.otf" id="MinionPro-Regular.otf" media-type="application/vnd.ms-opentype" />
+    <item href="Images/10166.jpg" id="x10166.jpg" media-type="image/jpeg" />
+    <item href="Images/10181.jpg" id="x10181.jpg" media-type="image/jpeg" />
+    <item href="Images/10183.jpg" id="x10183.jpg" media-type="image/jpeg" />
+    <item href="Images/10185.jpg" id="x10185.jpg" media-type="image/jpeg" />
+    <item href="Images/10188.jpg" id="x10188.jpg" media-type="image/jpeg" />
+    <item href="Images/10191.jpg" id="x10191.jpg" media-type="image/jpeg" />
+    <item href="Images/omslag_fmt.png" id="omslag_fmt.png" media-type="image/png" />
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/Vermoord_naakt.jpg" id="Vermoord_naakt.jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Bij_nacht_vermoord" />
+    <itemref idref="Section0002.xhtml" />
+    <itemref idref="Section0001.xhtml" />
+    <itemref idref="Bij_nacht_vermoord-1" />
+    <itemref idref="Bij_nacht_vermoord-2" />
+    <itemref idref="Bij_nacht_vermoord-3" />
+    <itemref idref="Bij_nacht_vermoord-4" />
+    <itemref idref="Bij_nacht_vermoord-5" />
+    <itemref idref="Bij_nacht_vermoord-6" />
+    <itemref idref="Bij_nacht_vermoord-7" />
+    <itemref idref="Bij_nacht_vermoord-8" />
+    <itemref idref="Bij_nacht_vermoord-9" />
+    <itemref idref="Bij_nacht_vermoord-10" />
+    <itemref idref="Bij_nacht_vermoord-11" />
+    <itemref idref="Bij_nacht_vermoord-12" />
+  </spine>
+</package>

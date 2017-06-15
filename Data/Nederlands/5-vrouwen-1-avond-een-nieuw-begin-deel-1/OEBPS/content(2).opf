@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="uuid_id" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Olie is niet dom - 177 korte verhalen, herinneringen, invallen</dc:title>
+    <dc:language>nl</dc:language>
+    <dc:identifier opf:scheme="calibre">4d2723ad-5cc5-42a1-ad3e-5a905a784265</dc:identifier>
+    <dc:creator opf:role="aut" opf:file-as="Vervoort, Hans">Hans Vervoort</dc:creator>
+    <dc:date>2016-08-22T22:00:00+00:00</dc:date>
+    <meta name="calibre:timestamp" content="2016-08-23T16:29:44+00:00" />
+    <dc:contributor opf:role="bkp">calibre (2.57.1) [http://calibre-ebook.com]</dc:contributor>
+    <meta name="calibre:title_sort" content="Olie is niet dom - 177 korte verhalen, herinneringen, invallen" />
+    <dc:identifier id="uuid_id" opf:scheme="uuid">4d2723ad-5cc5-42a1-ad3e-5a905a784265</dc:identifier>
+    <meta name="cover" content="cover" />
+    <meta name="Sigil version" content="0.9.6" />
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2016-12-30</dc:date>
+  </metadata>
+  <manifest>
+    <item id="cover" href="Images/cover.jpeg" media-type="image/jpeg"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html178" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_000.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html177" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_001.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html176" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_002.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html175" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_003.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html174" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_004.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html173" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_005.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html172" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_006.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html171" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_007.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html170" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_008.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html169" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_009.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html168" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_010.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html167" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_011.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html166" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_012.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html165" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_013.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html164" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_014.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html163" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_015.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html162" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_016.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html161" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_017.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html160" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_018.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html159" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_019.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html158" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_020.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html157" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_021.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html156" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_022.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html155" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_023.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html154" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_024.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html153" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_025.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html152" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_026.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html151" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_027.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html150" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_028.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html149" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_029.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html148" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_030.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html147" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_031.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html146" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_032.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html145" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_033.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html144" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_034.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html143" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_035.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html142" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_036.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html141" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_037.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html140" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_038.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html139" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_039.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html138" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_040.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html137" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_041.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html136" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_042.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html135" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_043.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html134" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_044.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html133" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_045.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html132" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_046.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html131" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_047.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html130" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_048.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html129" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_049.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html128" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_050.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html127" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_051.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html126" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_052.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html125" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_053.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html124" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_054.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html123" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_055.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html122" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_056.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html121" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_057.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html120" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_058.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html119" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_059.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html118" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_060.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html117" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_061.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html116" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_062.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html115" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_063.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html114" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_064.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html113" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_065.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html112" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_066.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html111" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_067.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html110" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_068.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html109" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_069.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html108" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_070.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html107" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_071.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html106" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_072.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html105" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_073.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html104" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_074.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html103" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_075.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html102" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_076.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html101" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_077.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html100" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_078.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html99" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_079.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html98" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_080.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html97" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_081.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html96" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_082.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html95" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_083.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html94" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_084.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html93" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_085.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html92" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_086.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html91" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_087.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html90" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_088.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html89" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_089.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html88" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_090.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html87" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_091.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html86" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_092.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html85" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_093.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html84" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_094.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html83" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_095.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html82" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_096.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html81" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_097.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html80" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_098.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html79" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_099.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html78" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_100.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html77" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_101.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html76" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_102.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html75" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_103.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html74" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_104.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html73" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_105.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html72" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_106.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html71" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_107.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html70" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_108.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html69" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_109.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html68" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_110.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html67" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_111.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html66" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_112.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html65" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_113.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html64" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_114.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html63" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_115.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html62" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_116.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html61" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_117.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html60" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_118.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html59" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_119.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html58" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_120.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html57" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_121.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html56" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_122.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html55" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_123.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html54" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_124.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html53" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_125.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html52" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_126.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html51" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_127.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html50" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_128.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html49" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_129.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html48" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_130.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html47" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_131.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html46" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_132.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html45" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_133.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html44" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_134.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html43" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_135.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html42" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_136.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html41" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_137.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html40" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_138.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html39" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_139.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html38" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_140.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html37" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_141.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html36" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_142.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html35" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_143.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html34" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_144.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html33" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_145.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html32" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_146.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html31" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_147.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html30" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_148.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html29" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_149.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html28" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_150.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html27" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_151.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html26" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_152.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html25" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_153.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html24" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_154.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html23" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_155.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html22" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_156.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html21" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_157.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html20" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_158.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html19" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_159.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html18" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_160.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html17" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_161.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html16" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_162.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html15" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_163.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html14" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_164.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html13" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_165.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html12" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_166.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html11" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_167.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html10" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_168.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html9" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_169.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html8" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_170.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html7" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_171.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html6" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_172.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html5" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_173.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html4" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_174.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html3" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_175.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html2" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_176.html" media-type="application/xhtml+xml"/>
+    <item id="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html1" href="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2C%20herinneringen%2C%20invallen_split_177.html" media-type="application/xhtml+xml"/>
+    <item id="page_css" href="Styles/page_styles.css" media-type="text/css"/>
+    <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
+    <item id="titlepage" href="Text/titlepage.xhtml" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html178"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html177"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html176"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html175"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html174"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html173"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html172"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html171"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html170"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html169"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html168"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html167"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html166"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html165"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html164"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html163"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html162"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html161"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html160"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html159"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html158"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html157"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html156"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html155"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html154"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html153"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html152"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html151"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html150"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html149"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html148"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html147"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html146"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html145"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html144"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html143"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html142"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html141"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html140"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html139"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html138"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html137"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html136"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html135"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html134"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html133"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html132"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html131"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html130"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html129"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html128"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html127"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html126"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html125"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html124"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html123"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html122"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html121"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html120"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html119"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html118"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html117"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html116"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html115"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html114"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html113"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html112"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html111"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html110"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html109"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html108"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html107"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html106"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html105"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html104"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html103"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html102"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html101"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html100"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html99"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html98"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html97"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html96"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html95"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html94"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html93"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html92"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html91"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html90"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html89"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html88"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html87"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html86"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html85"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html84"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html83"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html82"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html81"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html80"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html79"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html78"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html77"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html76"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html75"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html74"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html73"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html72"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html71"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html70"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html69"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html68"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html67"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html66"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html65"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html64"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html63"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html62"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html61"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html60"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html59"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html58"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html57"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html56"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html55"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html54"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html53"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html52"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html51"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html50"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html49"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html48"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html47"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html46"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html45"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html44"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html43"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html42"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html41"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html40"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html39"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html38"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html37"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html36"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html35"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html34"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html33"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html32"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html31"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html30"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html29"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html28"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html27"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html26"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html25"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html24"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html23"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html22"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html21"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html20"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html19"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html18"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html17"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html16"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html15"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html14"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html13"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html12"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html11"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html10"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html9"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html8"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html7"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html6"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html5"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html4"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html3"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html2"/>
+    <itemref idref="Olie_is_niet_dom_-_177_korte_verhalen__herinneringen__invallen.html1"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/titlepage.xhtml"/>
+  </guide>
+</package>

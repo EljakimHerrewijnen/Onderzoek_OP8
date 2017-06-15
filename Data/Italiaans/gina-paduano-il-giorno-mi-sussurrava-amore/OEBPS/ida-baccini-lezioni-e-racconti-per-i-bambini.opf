@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="bibliotecario_1211983904.9748179913">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+  <meta name="cover" content="cover"/>
+    <dc:title>Lezioni e Racconti per i bambini</dc:title>
+    <dc:creator opf:role="aut">Ida Baccini</dc:creator>
+    <dc:language>it</dc:language>
+    <dc:identifier id="bibliotecario_1211983904.9748179913">bibliotecario_1211983904.9748179913</dc:identifier>
+    <dc:description></dc:description>
+  </metadata>
+  <manifest>
+    <item id="coverxml" href="cover.xhtml" media-type="application/xhtml+xml" />
+    <item id="bookinfo" href="bookinfo.html" media-type="application/xhtml+xml" />
+    <item id="document0" href="ida-baccini-lezioni-e-racconti-per-i-bambini_0.html" media-type="application/xhtml+xml" />
+    <item id="document1" href="ida-baccini-lezioni-e-racconti-per-i-bambini_1.html" media-type="application/xhtml+xml" />
+    <item id="imprint" href="imprint.html" media-type="application/xhtml+xml" />
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="style" href="css/style.css" media-type="text/css" />
+    <item id="cover" href="images/cover.jpeg" media-type="image/jpeg" />
+    <item id="font_ABeeZee-Regular" href="fonts/ABeeZee-Regular.woff" media-type="application/octet-stream" />
+    <item id="font_ABeeZee-Italic" href="fonts/ABeeZee-Italic.woff" media-type="application/octet-stream" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverxml" />
+    <itemref idref="bookinfo" />
+    <itemref idref="document0" />
+    <itemref idref="document1" />
+    <itemref idref="imprint" />
+  </spine>
+</package>

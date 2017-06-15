@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="claddagh_1275110847.8390390873">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+  <meta name="cover" content="cover"/>
+    <dc:title>Caro Fantozzi</dc:title>
+    <dc:creator opf:role="aut">Tiziano Thomas Dossena</dc:creator>
+    <dc:language>it</dc:language>
+    <dc:identifier id="claddagh_1275110847.8390390873">claddagh_1275110847.8390390873</dc:identifier>
+    <dc:description>Ten short stories in Italian, some fictional, some autobiographical... The book also includes an award winning essay on the Italians in America (Gold medal, Premio Emigrazione).Dieci racconti, alcuni di fantasia, alcuni biografici...  Il libro include un saggio su gli Italiani in America che ha vinto la medaglia d'oro al Premio Emigrazione.Il libro lo puoi richiedere alla tua libreria oppure presso:Barnes &amp; Noble e/o Amazon.com</dc:description>
+  </metadata>
+  <manifest>
+    <item id="coverxml" href="cover.xhtml" media-type="application/xhtml+xml" />
+    <item id="bookinfo" href="bookinfo.html" media-type="application/xhtml+xml" />
+    <item id="document0" href="tiziano-thomas-dossena-caro-fantozzi_0.html" media-type="application/xhtml+xml" />
+    <item id="imprint" href="imprint.html" media-type="application/xhtml+xml" />
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="style" href="css/style.css" media-type="text/css" />
+    <item id="cover" href="images/cover.jpeg" media-type="image/jpeg" />
+    <item id="img518689161" href="images/149755318919063170_1.jpg" media-type="image/jpeg" />
+    <item id="img518689162" href="images/149755319079709368_2.jpg" media-type="image/jpeg" />
+    <item id="img518689163" href="images/149755319099889231_3.jpg" media-type="image/jpeg" />
+    <item id="img518689164" href="images/149755319086537247_4.jpg" media-type="image/jpeg" />
+    <item id="img518689165" href="images/14975531912779303_5.jpg" media-type="image/jpeg" />
+    <item id="img518689166" href="images/149755319129106221_6.jpg" media-type="image/jpeg" />
+    <item id="img518689167" href="images/149755319176139572_7.jpg" media-type="image/jpeg" />
+    <item id="img518689168" href="images/149755319222633396_8.jpg" media-type="image/jpeg" />
+    <item id="img518689169" href="images/149755319297525837_9.jpg" media-type="image/jpeg" />
+    <item id="font_ABeeZee-Regular" href="fonts/ABeeZee-Regular.woff" media-type="application/octet-stream" />
+    <item id="font_ABeeZee-Italic" href="fonts/ABeeZee-Italic.woff" media-type="application/octet-stream" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverxml" />
+    <itemref idref="bookinfo" />
+    <itemref idref="document0" />
+    <itemref idref="imprint" />
+  </spine>
+</package>

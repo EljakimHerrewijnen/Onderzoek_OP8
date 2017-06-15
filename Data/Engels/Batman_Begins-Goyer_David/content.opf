@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:creator opf:file-as="David, Goyer S." opf:role="aut">Goyer S. David</dc:creator>
+    <dc:description>&lt;p&gt;It's a fantastic story of the most popular superhero Batman. Bruce Wayne was born in a rich and famous family in Gotham City in the USA. He hated the bats after he had fallen into the well where they attacked him. When he was a little boy, his parents were killed by the robber in front of him. A big suffering and a mental trauma were added to his phobia. Everything left a great scar on his soul. He blamed himself in his parents' death. He had been travelling the world looking for the answers. Desire for revenge and justice tormented him. Fate led him to Ducard from the League of Shadows. Ducard taught him the martial arts and helped to overcome his phobia of bats. Bruce Wayne came back to Gotham with the aim to restore order in his hometown. Now he knows how to use his fears in his favour.&lt;/p&gt;</dc:description>
+    <meta name="calibre:title_sort" content="Batman Begins"/>
+    <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+    <dc:contributor opf:role="bkp">calibre (2.67.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>fantasy</dc:subject>
+    <dc:publisher>http://english-e-books.net/</dc:publisher>
+    <dc:title>Batman Begins</dc:title>
+    <dc:language>en</dc:language>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">62199aac-4dc2-40e4-b7ae-f908bcef094b</dc:identifier>
+    <dc:identifier opf:scheme="calibre">62199aac-4dc2-40e4-b7ae-f908bcef094b</dc:identifier>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="index_split_000.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="index_split_006.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id27"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

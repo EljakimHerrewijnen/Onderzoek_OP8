@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:description>Fleur is verloofd met de liefde van haar leven, Lara leidt een gelukkig vrijgezellenbestaan, Emily heeft sinds kort een nieuwe liefde gevonden, Danique heeft een leuke man en een veelbelovende carrière en Britt is gelukkig met haar kinderen. Op Tweede Kerstdag verandert alles en komen deze vijf vrouwen elkaar tegen. Zonder dat ze het weten, zullen ze elkaars levens gaan veranderen.</dc:description>
+    <dc:language>nl</dc:language>
+    <dc:creator opf:role="aut">Lenthe Leeuwenberg</dc:creator>
+    <meta name="calibre:timestamp" content="2016-03-18T10:39:12.316854"/>
+    <dc:title>5 vrouwen 1 avond</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:contributor opf:role="bkp">Smashwords, Inc.</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">1433ee1f-c20a-4004-8cba-acc2945947ee</dc:identifier>
+    <dc:subject>chicklit</dc:subject>
+    <dc:subject>vriendschap</dc:subject>
+    <dc:subject>liefde</dc:subject>
+    <dc:subject>een nieuw begin</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="tmp_b80bc044b4ff9704b1eaab33c4798c47_xR5fEt.ch.fixed.fc.tidied.stylehacked.xfixed_split_000.html" id="html5" media-type="application/xhtml+xml"/>
+    <item href="tmp_b80bc044b4ff9704b1eaab33c4798c47_xR5fEt.ch.fixed.fc.tidied.stylehacked.xfixed_split_001.html" id="html4" media-type="application/xhtml+xml"/>
+    <item href="tmp_b80bc044b4ff9704b1eaab33c4798c47_xR5fEt.ch.fixed.fc.tidied.stylehacked.xfixed_split_002.html" id="html3" media-type="application/xhtml+xml"/>
+    <item href="tmp_b80bc044b4ff9704b1eaab33c4798c47_xR5fEt.ch.fixed.fc.tidied.stylehacked.xfixed_split_003.html" id="html2" media-type="application/xhtml+xml"/>
+    <item href="tmp_b80bc044b4ff9704b1eaab33c4798c47_xR5fEt.ch.fixed.fc.tidied.stylehacked.xfixed_split_004.html" id="html1" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

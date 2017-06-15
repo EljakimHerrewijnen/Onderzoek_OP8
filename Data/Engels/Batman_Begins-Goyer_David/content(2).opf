@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <meta name="calibre:title_sort" content="Simon Decker and the Secret Formula"/>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (2.67.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:description>&lt;p&gt;A thirty-year-old man Simon Decker was sitting in his room and trying to start writing a detective novel. He had been worked as an expert of the bombs for the army for a long time. But then he understood, that this work wasn't his cup of tea and quitted. He got enough time for his passion – creating detective stories. Inspiration didn't want to come to him and the writer stuck on the first paragraph. Suddenly, Simon heard a gunshot, woman's scream and his dog barking. Our hero chased after his dog. The dog led him to the neighbor's house. The window was broken and Simon saw a bloody body through it. The neighbor was still alive. Simon gave him first aid and called to the police. He discovered a telephone bug there. They used such bugs in the army. Who and why wanted to kill his neighbor? This man was just a simple scientist.&lt;/p&gt;</dc:description>
+    <dc:creator opf:file-as="Dooley, Jenny" opf:role="aut">Jenny Dooley</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">1cb87b93-bccf-412c-b12d-5afa8beba568</dc:identifier>
+    <dc:identifier opf:scheme="calibre">1cb87b93-bccf-412c-b12d-5afa8beba568</dc:identifier>
+    <dc:subject>detective</dc:subject>
+    <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+    <dc:language>en</dc:language>
+    <dc:title>Simon Decker and the Secret Formula</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:publisher>http://english-e-books.net/</dc:publisher>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="index_split_000.html" id="id210" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id29" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id28" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="index_split_006.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="index_split_007.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="index_split_008.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="index_split_009.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id210"/>
+    <itemref idref="id29"/>
+    <itemref idref="id28"/>
+    <itemref idref="id27"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

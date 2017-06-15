@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE ncx PUBLIC
+  "-//NISO//DTD ncx 2005-1//EN"
+  "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx version="2005-1"
+  xml:lang="it"
+  xmlns="http://www.daisy.org/z3986/2005/ncx/">
+
+  <head>
+    <meta name="dtb:uid" content="ginapaduano_1309714833.1967370510" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>il giorno mi  sussurrava...Amore</text>
+  </docTitle>
+  <docAuthor>
+    <text>Gina Paduano</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="cover" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="cover.xhtml" />
+    </navPoint>
+    <navPoint id="c958248951" playOrder="2">
+      <navLabel>
+        <text>il giorno mi  sussurrava...Amore</text>
+      </navLabel>
+      <content src="gina-paduano-il-giorno-mi-sussurrava-amore_0.html#c958248951" />
+    </navPoint>
+    <navPoint id="imprint" playOrder="3">
+      <navLabel>
+        <text>Imprint</text>
+      </navLabel>
+      <content src="imprint.html" />
+    </navPoint>
+  </navMap>
+</ncx>

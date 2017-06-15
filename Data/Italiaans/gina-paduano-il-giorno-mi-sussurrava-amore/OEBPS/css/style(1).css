@@ -1,0 +1,82 @@
+body {
+  color: black;
+  font-family: 'ABeeZee', sans-serif;
+  padding-left: 0pt;
+  margin-left: 1.2em;
+  margin-right: 1.2em;
+}
+@font-face {
+  font-family: ABeeZee;
+  src: url("../fonts/ABeeZee-Regular.woff");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: ABeeZee;
+  src: url("../fonts/ABeeZee-Italic.woff");
+  font-weight: 400;
+  font-style: normal;
+}
+p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-indent: 1.5em;
+  text-align: justify;
+}
+.underline {
+  text-decoration: underline;
+}
+.normal {
+  font-weight: normal;
+}
+strong, strong * {
+  font-weight: 600;
+}
+.center {
+  text-align: center;
+  text-indent: 0;
+}
+.right {
+  text-align: right;
+  text-indent: 0;
+}
+table.center {
+  text-indent: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+table.right {
+  text-indent: 0;
+  width: auto;
+  margin-left: auto;
+  margin-right: 0;
+}
+table {
+  border-collapse: collapse;
+  min-width: 40px;
+}
+table p {
+  padding: 0;
+  text-indent: 0 !important;
+}
+table td {
+  padding: 4px;
+  text-indent: 0 !important;
+}
+table.border td {
+  text-align: left;
+  vertical-align: top;
+  border: 1px solid black;
+}
+img {
+  max-width: 100%;
+}
+p img {
+  margin-left: -1.5em;
+}
+.cover {
+  max-width: 100%;
+  max-height: 100%;
+  height: auto;
+  width: auto;
+}

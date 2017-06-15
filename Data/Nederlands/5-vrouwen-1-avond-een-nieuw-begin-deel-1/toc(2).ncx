@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="nl">
+  <head>
+    <meta content="6d46a4a8-07aa-4042-989f-1e0d07483201" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.34)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ik zal je vinden</text>
+  </docTitle>
+  <navMap>
+    
+    
+  <navPoint id="navPoint-1" playOrder="1"><navLabel><text>Ik zal je vinden</text></navLabel><content src="tmp_023780c746960d1074a5d6a5945fdd3c_7AsAUu.ch.fixed.fc.tidied.stylehacked.xfixed_split_000.html"/></navPoint><navPoint id="navPoint-2" playOrder="2"><navLabel><text>
+        Notes
+      </text></navLabel><content src="tmp_023780c746960d1074a5d6a5945fdd3c_7AsAUu.ch.fixed.fc.tidied.stylehacked.xfixed_split_001.html#calibre_toc_2"/></navPoint><navPoint id="navPoint-3" playOrder="3"><navLabel><text>Midpoint</text></navLabel><content src="tmp_023780c746960d1074a5d6a5945fdd3c_7AsAUu.ch.fixed.fc.tidied.stylehacked.xfixed_split_002.html#calibre_toc_3"/></navPoint></navMap>
+</ncx>

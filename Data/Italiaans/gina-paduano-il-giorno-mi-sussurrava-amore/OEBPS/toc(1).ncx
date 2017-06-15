@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE ncx PUBLIC
+  "-//NISO//DTD ncx 2005-1//EN"
+  "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx version="2005-1"
+  xml:lang="it"
+  xmlns="http://www.daisy.org/z3986/2005/ncx/">
+
+  <head>
+    <meta name="dtb:uid" content="bibliotecario_1211983904.9748179913" />
+    <meta name="dtb:depth" content="2" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Lezioni e Racconti per i bambini</text>
+  </docTitle>
+  <docAuthor>
+    <text>Ida Baccini</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="cover" playOrder="1">
+      <navLabel>
+        <text>Cover</text>
+      </navLabel>
+      <content src="cover.xhtml" />
+    </navPoint>
+    <navPoint id="c362575641" playOrder="2">
+      <navLabel>
+        <text>Lezioni e Racconti per i bambini</text>
+      </navLabel>
+      <content src="ida-baccini-lezioni-e-racconti-per-i-bambini_0.html#c362575641" />
+    </navPoint>
+    <navPoint id="imprint" playOrder="3">
+      <navLabel>
+        <text>Imprint</text>
+      </navLabel>
+      <content src="imprint.html" />
+    </navPoint>
+  </navMap>
+</ncx>

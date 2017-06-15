@@ -1,0 +1,120 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.SWchapter {
+    color: #000;
+    direction: ltr;
+    display: block;
+    font-family: Arial, sans-serif;
+    line-height: 150%;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    page-break-before: always;
+    widows: 2
+    }
+.SWsoftchapter {
+    color: #000;
+    direction: ltr;
+    display: none;
+    line-height: 115%;
+    margin-bottom: 0.08in;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    widows: 2
+    }
+.c {
+    font-size: 1.125em;
+    font-weight: bold
+    }
+.c1 {
+    font-family: Arial, sans-serif
+    }
+.calibre {
+    color: #000;
+    display: block;
+    font-size: 1.125em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    page-break-before: always;
+    text-align: justify
+    }
+.calibre1 {
+    display: block
+    }
+.western {
+    color: #000;
+    direction: ltr;
+    display: block;
+    font-family: Arial, sans-serif;
+    font-size: 0.88889em;
+    line-height: 150%;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    so-language: nl-NL;
+    widows: 2
+    }
+.western1 {
+    color: #000;
+    direction: ltr;
+    display: block;
+    font-family: "Calibri", sans-serif;
+    font-size: 0.88889em;
+    line-height: 150%;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    so-language: nl-NL;
+    widows: 2
+    }
+.western2 {
+    color: #000;
+    direction: ltr;
+    display: block;
+    font-family: "Calibri", sans-serif;
+    font-size: 0.88889em;
+    line-height: 150%;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    so-language: nl-NL;
+    text-indent: 0.2in;
+    widows: 2
+    }
+.western3 {
+    color: #000;
+    direction: ltr;
+    display: block;
+    font-family: Arial, sans-serif;
+    font-size: 0.88889em;
+    line-height: 150%;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    orphans: 2;
+    so-language: nl-NL;
+    text-indent: 0.2in;
+    widows: 2
+    }
+a {
+    color: inherit;
+    text-decoration: inherit;
+    cursor: default
+    }
+a[href] {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer
+    }

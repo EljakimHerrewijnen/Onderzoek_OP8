@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="nl">
+  <head>
+    <meta content="1433ee1f-c20a-4004-8cba-acc2945947ee" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.6.34)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>5 vrouwen 1 avond</text>
+  </docTitle>
+  <navMap>
+    
+  <navPoint id="navPoint-1" playOrder="1"><navLabel><text>5 vrouwen 1 avond</text></navLabel><content src="tmp_b80bc044b4ff9704b1eaab33c4798c47_xR5fEt.ch.fixed.fc.tidied.stylehacked.xfixed_split_000.html"/></navPoint><navPoint id="navPoint-2" playOrder="2"><navLabel><text>Midpoint</text></navLabel><content src="tmp_b80bc044b4ff9704b1eaab33c4798c47_xR5fEt.ch.fixed.fc.tidied.stylehacked.xfixed_split_003.html#calibre_toc_2"/></navPoint></navMap>
+</ncx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xml:lang="nld" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="4d2723ad-5cc5-42a1-ad3e-5a905a784265" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.57.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Olie is niet dom - 177 korte verhalen, herinneringen, invallen</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Start</text>
+      </navLabel>
+      <content src="Text/Olie%20is%20niet%20dom%20-%20177%20korte%20verhalen%2c%20herinneringen%2c%20invallen_split_000.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

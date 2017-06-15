@@ -57,13 +57,49 @@ namespace EbookParser
                     words.Add(word, 1);
             }
 
+            foreach(var word in words.Keys.ToList())
+            {
+                bool isclean = true;
+                foreach(var character in word)
+                {
+                    if(!(((int)character >= 65 && (int)character <= 90) || (int)character >= 97 && (int)character <= 122))
+                    {
+                        isclean = false;
+                    }
+                }
+                if (word.Length > 15)
+                    isclean = false;
+                if (!isclean)
+                    words.Remove(word);
+            }
+
+            //maakt dataset groter door spaties toe te voegen (ook beter voor leren)
+            List<string> FinalList = new List<string>();
+            foreach(var word in words.Keys)
+            {
+                for (int i = 0; i <= 15-word.Length; i++)
+                {
+                    var newword = "";
+                    for (int j = 0; j < i; j++)
+                    {
+                        newword += " ";
+                    }
+                    newword += word;
+                    while (newword.Length < 15)
+                        newword += " ";
+                    FinalList.Add(newword);
+                }
+            }
 
             SaveFileDialog saveFile = new SaveFileDialog();
             saveFile.Filter = "Comma Seperated Values|.csv";
             saveFile.ShowDialog();
             var writer = new StreamWriter(saveFile.FileName);
-            foreach (var word in words.Keys)
-                writer.WriteLine(word + ";" + words[word].ToString());
+            foreach (var word in FinalList)
+            {
+                writer.WriteLine(word);
+            }
+                
             writer.Close();
         }
 
@@ -78,19 +114,11 @@ namespace EbookParser
 
         static string RemovePunctuation(string text)
         {
-            text = text.Replace('.', ' ');
-            text = text.Replace('!', ' ');
-            text = text.Replace('?', ' ');
-            text = text.Replace(',', ' ');
-            text = text.Replace('"', ' ');
-            text = text.Replace(':', ' ');
-            text = text.Replace(';', ' ');
-            text = text.Replace('\'', ' ');
-            text = text.Replace('-', ' ');
-            text = text.Replace('‘', ' ');
-            text = text.Replace('’', ' ');
-            text = text.Replace('“', ' ');
-            text = text.Replace('”', ' ');
+            const string punctuation = ".!?,\"':;\\/-‘’“”(){}[].@#$%&^*…";
+            foreach (var i in punctuation)
+            {
+                text = text.Replace(i, ' ');
+            }
 
             return text;
         }

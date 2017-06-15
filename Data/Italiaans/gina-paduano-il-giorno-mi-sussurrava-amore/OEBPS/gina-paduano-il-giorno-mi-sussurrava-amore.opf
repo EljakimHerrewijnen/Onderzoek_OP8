@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="ginapaduano_1309714833.1967370510">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+  <meta name="cover" content="cover"/>
+    <dc:title>il giorno mi  sussurrava...Amore</dc:title>
+    <dc:creator opf:role="aut">Gina Paduano</dc:creator>
+    <dc:language>it</dc:language>
+    <dc:identifier id="ginapaduano_1309714833.1967370510">ginapaduano_1309714833.1967370510</dc:identifier>
+    <dc:description>Katrin aveva sempre sognato ,un amore grande e puro..Quando un giorno incontro´ Devid un ragazzo dagli occhi di ghiaccio che la fece soffrire..dopo 15 anni si rincontrano in un locale di amici..Katrin fece finta di non conoscerlo pero´ il cuore li batteva talmente forte..</dc:description>
+  </metadata>
+  <manifest>
+    <item id="coverxml" href="cover.xhtml" media-type="application/xhtml+xml" />
+    <item id="bookinfo" href="bookinfo.html" media-type="application/xhtml+xml" />
+    <item id="document0" href="gina-paduano-il-giorno-mi-sussurrava-amore_0.html" media-type="application/xhtml+xml" />
+    <item id="imprint" href="imprint.html" media-type="application/xhtml+xml" />
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="style" href="css/style.css" media-type="text/css" />
+    <item id="cover" href="images/cover.jpeg" media-type="image/jpeg" />
+    <item id="font_ABeeZee-Regular" href="fonts/ABeeZee-Regular.woff" media-type="application/octet-stream" />
+    <item id="font_ABeeZee-Italic" href="fonts/ABeeZee-Italic.woff" media-type="application/octet-stream" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="coverxml" />
+    <itemref idref="bookinfo" />
+    <itemref idref="document0" />
+    <itemref idref="imprint" />
+  </spine>
+</package>
