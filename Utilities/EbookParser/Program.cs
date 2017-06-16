@@ -12,6 +12,7 @@ namespace EbookParser
 {
     class Program
     {
+        const int Wordlenght = 10;
         [STAThreadAttribute]
         static void Main(string[] args)
         {
@@ -67,7 +68,7 @@ namespace EbookParser
                         isclean = false;
                     }
                 }
-                if (word.Length > 15)
+                if (word.Length > Wordlenght)
                     isclean = false;
                 if (!isclean)
                     words.Remove(word);
@@ -77,7 +78,7 @@ namespace EbookParser
             List<string> FinalList = new List<string>();
             foreach(var word in words.Keys)
             {
-                for (int i = 0; i <= 15-word.Length; i++)
+                for (int i = 0; i <= Wordlenght-word.Length; i++)
                 {
                     var newword = "";
                     for (int j = 0; j < i; j++)
@@ -85,7 +86,7 @@ namespace EbookParser
                         newword += " ";
                     }
                     newword += word;
-                    while (newword.Length < 15)
+                    while (newword.Length < Wordlenght)
                         newword += " ";
                     FinalList.Add(newword);
                 }
